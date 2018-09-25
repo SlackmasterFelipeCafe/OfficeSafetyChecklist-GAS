@@ -1,4 +1,4 @@
-# GGGSC Safety Checklist GAS - - Google Application Scripts being used by the GGGSC to create and track supervisior appoved office safety checklists
+# GGGSC Safety Checklist GAS - Google Application Scripts being used by the GGGSC to create and track supervisior appoved office safety checklists
  
 US Geological Survey (USGS)
 
